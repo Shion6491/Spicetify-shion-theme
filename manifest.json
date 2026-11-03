@@ -1,0 +1,16 @@
+{
+  "name": "Shion",
+  "description": "Deep-blue underwater theme with a custom background image. Colors matched to Galaxy V2, so pages and cards turn see-through over the image.",
+  "preview": "background.jpg",
+  "readme": "README.md",
+  "usercss": "https://cdn.jsdelivr.net/gh/Shion6491/Spicetify-shion-theme@main/user.css",
+  "schemes": "https://cdn.jsdelivr.net/gh/Shion6491/Spicetify-shion-theme@main/color.ini",
+  "include": ["https://cdn.jsdelivr.net/gh/Shion6491/Spicetify-shion-theme@main/theme.js"],
+  "authors": [
+    {
+      "name": "Shion6491",
+      "url": "https://github.com/Shion6491"
+    }
+  ],
+  "tags": ["dark", "blue", "transparent", "background"]
+}
