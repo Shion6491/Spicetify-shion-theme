@@ -1,0 +1,19 @@
+/* Shion custom Spicetify theme.
+   The background image below is picked up by the Spicetify Android patches
+   (Morphe) when this theme is chosen from the Spicetify Marketplace:
+   the first raster image named by a background on a full-window selector
+   (.Root__main-view / .Root__top-container / body / html) becomes the
+   background drawn behind Spotify. Replace background.jpg in this repo
+   (same file name) to change the image. */
+
+.Root__main-view {
+  background-image: url("https://raw.githubusercontent.com/Shion6491/Spicetify-shion-theme/main/background.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.Root__top-container {
+  background-image: url("https://raw.githubusercontent.com/Shion6491/Spicetify-shion-theme/main/background.jpg");
+  background-size: cover;
+  background-position: center;
+}
