@@ -17,3 +17,10 @@
   background-size: cover;
   background-position: center;
 }
+
+/* Font test (stage 1): use the "azuki_font" installed on the device.
+   Works only if the patch's CSS handling resolves font-family against
+   device-installed fonts; unsupported rules are ignored. */
+body, .Root__main-view, .Root__top-container, * {
+  font-family: "azuki_font", sans-serif !important;
+}
