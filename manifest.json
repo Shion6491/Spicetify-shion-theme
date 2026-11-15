@@ -4,7 +4,7 @@
   "preview": "background.jpg",
   "readme": "README.md",
   "usercss": "https://cdn.jsdelivr.net/gh/Shion6491/Spicetify-shion-theme@main/user.css",
-  "schemes": "https://cdn.jsdelivr.net/gh/Shion6491/Spicetify-shion-theme@b8f344a002cb7ad53ea87a27e68f4e472f360217/color.ini",
+  "schemes": "https://cdn.jsdelivr.net/gh/Shion6491/Spicetify-shion-theme@4680c6faa1494066f621288a848b2dda15103cb6/color.ini",
   "include": ["https://cdn.jsdelivr.net/gh/Shion6491/Spicetify-shion-theme@main/theme.js"],
   "authors": [
     {
